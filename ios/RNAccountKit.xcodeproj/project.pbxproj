@@ -117,6 +117,7 @@
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
 			knownRegions = (
+				English,
 				en,
 			);
 			mainGroup = D2C7C6871CD1552900C9B392;
@@ -239,6 +240,7 @@
 				FRAMEWORK_SEARCH_PATHS = (
 					"${SRCROOT}/**",
 					"${SRCROOT}/../node_modules",
+					"$(SRCROOT)/../../../ios/**",
 				);
 				HEADER_SEARCH_PATHS = (
 					"$(SRCROOT)/../../react-native/React/**",
@@ -259,6 +261,7 @@
 				FRAMEWORK_SEARCH_PATHS = (
 					"${SRCROOT}/**",
 					"${SRCROOT}/../node_modules",
+					"$(SRCROOT)/../../../ios/**",
 				);
 				HEADER_SEARCH_PATHS = (
 					"$(SRCROOT)/../../react-native/React/**",
